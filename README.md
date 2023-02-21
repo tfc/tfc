@@ -2,7 +2,7 @@
 
 I'm a freelance Software Engineering Consultant: I improve the throughput of development organizations and [teach](https://qasm.de) DevOps thinking.
 
-When writing code (mostly [C++](https://blog.galowicz.de/tags/c%2B%2B.html) and [Haskell](https://blog.galowicz.de/tags/haskell.html)), I enjoy using [strong type systems](https://blog.galowicz.de/tags/metaprogramming.html) to improve the correctness and maintainability of code
+When writing code (mostly [C++](https://galowicz.de/tags/c%2B%2B.html) and [Haskell](https://galowicz.de/tags/haskell.html)), I enjoy using [strong type systems](https://galowicz.de/tags/metaprogramming.html) to improve the correctness and maintainability of code
 
 Visit my Blog: <https://galowicz.de>
 
