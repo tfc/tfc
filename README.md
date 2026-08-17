@@ -1,15 +1,35 @@
-### Hi there 👋
+# Hi, I'm Jacek 👋
 
-I'm a freelance Software Engineering Consultant: I improve the throughput of development organizations and [teach](https://qasm.de) DevOps thinking.
+I'm the founder of the [**Applicative Systems Group**](https://applicative.systems) and [**Nixcademy**](https://nixcademy.com). 
+We help software organizations deliver higher quality, faster, through consulting, hands-on development, CI/CD automation, and corporate training on [Nix & NixOS](https://nixos.org).
 
 [![Nix Code Architect Badge](https://sticker.nix.institute/badge/9326397489-code-architect.svg)](https://sticker.nix.institute/sticker/9326397489)
 [![Nix Community Connector Badge](https://sticker.nix.institute/badge/9326397489-community-connector.svg)](https://sticker.nix.institute/sticker/9326397489)
 [![Nix Code Mentor Badge](https://sticker.nix.institute/badge/9326397489-code-mentor.svg)](https://sticker.nix.institute/sticker/9326397489)
 
-I also give corporate trainings on [Nix & NixOS](https://nixcademy.com):
+## 🛠️ What I do
 
-[<img alt="nixcademy.com logo" src="https://nixcademy.com/images/logo-landscape.svg" width="400">](https://nixcademy.com)
+- 🧊 **Nix/NixOS** (user since 2015): Maintainer of the [NixOS Integration Test Driver](https://github.com/NixOS/nixpkgs) in nixpkgs. I speak regularly about Nix at [conferences like NixCon, Planet Nix, SCALE, and emBO++](https://galowicz.de/#talks) and write about it for [heise online](https://www.heise.de/en/news/NixCon-2025-Nix-professionalizes-itself-10639531.html).
+- ⚙️ **C++ & systems programming**: Author of the [C++17 STL Cookbook](https://galowicz.de/blog/cpp17_stl_cookbook/). Background in hypervisors, embedded systems (x86-64/ARM), and low-level development on Linux (my daily driver since 2003). I also wrote about [CPU vulnerability research](https://cyberus-technology.de/en/articles/meltdown) (Meltdown, Zombieload & friends) as co-founder of [Cyberus Technology GmbH](https://cyberus-technology.de).
+- λ **Strong type systems**: I enjoy using [metaprogramming](https://galowicz.de/tags/metaprogramming.html) in C++ and [Haskell](https://galowicz.de/tags/haskell.html), as well as PureScript. The goal is to "define entire categories of errors out of existence".
+- 🚀 **CI/CD & test infrastructure**: Reproducible builds, hardware-in-the-loop testing, and fast deployment pipelines.
 
-When writing code (mostly [C++](https://galowicz.de/tags/c%2B%2B.html) and [Haskell](https://galowicz.de/tags/haskell.html)), I enjoy using [strong type systems](https://galowicz.de/tags/metaprogramming.html) to improve the correctness and maintainability of code
+## 🎓 How I think about software
 
-Visit my Blog: <https://galowicz.de>
+> **Shift errors left.** Catching problems at compile time is cheaper and faster than getting them out of production.
+> 
+> **Control complexity.** Clear boundaries, minimal surface area, composable abstractions.
+>
+> **Automate confidence.** Infrastructure as code, no moving parts in the deployment that can go wrong.
+>
+> **Build software that lasts.** Good architecture ends up being cheaper and more effective.
+
+## 📫 Find me elsewhere
+
+- 📝 Blog: [galowicz.de](https://galowicz.de)
+- 🏢 Consulting: [applicative.systems](https://applicative.systems)
+- 🧑‍🏫 Nix training: [nixcademy.com](https://nixcademy.com)
+- 💼 LinkedIn: [jgalowicz](https://linkedin.com/in/jgalowicz)
+- 🐘 Mastodon: [@jgalowicz@functional.cafe](https://functional.cafe/@jgalowicz)
+
+[![nixcademy.com logo](https://nixcademy.com/images/logo-landscape.svg)](https://nixcademy.com)
