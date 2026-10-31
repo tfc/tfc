@@ -1,7 +1,7 @@
 # Hi, I'm Jacek 👋
 
-I'm the founder of the [**Applicative Systems Group**](https://applicative.systems) and [**Nixcademy**](https://nixcademy.com). 
-We help software organizations deliver higher quality, faster, through consulting, hands-on development, CI/CD automation, and corporate training on [Nix & NixOS](https://nixos.org).
+I'm the founder of the [**Applicative Systems Group**](https://applicative.systems), which also runs [**Nixcademy**](https://nixcademy.com) and the [**Institute of Nix**](https://nix.institute).
+We help software organizations deliver higher quality, faster, through consulting, hands-on development, CI/CD automation, and corporate training on [Nix & NixOS](https://nixos.org). See our [case studies](https://applicative.systems/case-studies/) for what that looks like in practice.
 
 [![Nix Code Architect Badge](https://sticker.nix.institute/badge/9326397489-code-architect.svg)](https://sticker.nix.institute/sticker/9326397489)
 [![Nix Community Connector Badge](https://sticker.nix.institute/badge/9326397489-community-connector.svg)](https://sticker.nix.institute/sticker/9326397489)
@@ -17,7 +17,7 @@ We help software organizations deliver higher quality, faster, through consultin
 ## 🎓 How I think about software
 
 > **Shift errors left.** Catching problems at compile time is cheaper and faster than getting them out of production.
-> 
+>
 > **Control complexity.** Clear boundaries, minimal surface area, composable abstractions.
 >
 > **Automate confidence.** Infrastructure as code, no moving parts in the deployment that can go wrong.
@@ -29,7 +29,13 @@ We help software organizations deliver higher quality, faster, through consultin
 - 📝 Blog: [galowicz.de](https://galowicz.de)
 - 🏢 Consulting: [applicative.systems](https://applicative.systems)
 - 🧑‍🏫 Nix training: [nixcademy.com](https://nixcademy.com)
+- 📚 Nix video courses & books: [nix.institute](https://nix.institute)
+- 🎤 Talks & press: [applicative.systems/press](https://applicative.systems/press/)
 - 💼 LinkedIn: [jgalowicz](https://linkedin.com/in/jgalowicz)
 - 🐘 Mastodon: [@jgalowicz@functional.cafe](https://functional.cafe/@jgalowicz)
 
-[![nixcademy.com logo](https://nixcademy.com/images/logo-landscape.svg)](https://nixcademy.com)
+<p>
+  <a href="https://applicative.systems"><img alt="Applicative Systems Group" src="https://raw.githubusercontent.com/applicative-systems/.github/main/.github/applicative-systems.svg" height="70"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nixcademy.com"><img alt="Nixcademy" src="https://nixcademy.com/images/logo-landscape.svg" height="70"></a>
+</p>
