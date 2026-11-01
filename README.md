@@ -10,6 +10,8 @@ We help software organizations deliver higher quality, faster, through consultin
 ## 🛠️ What I do
 
 - 🧊 **Nix/NixOS** (user since 2015): Maintainer of the [NixOS Integration Test Driver](https://github.com/NixOS/nixpkgs) in nixpkgs. I speak regularly about Nix at [conferences like NixCon, Planet Nix, SCALE, and emBO++](https://galowicz.de/#talks) and write about it for [heise online](https://www.heise.de/en/news/NixCon-2025-Nix-professionalizes-itself-10639531.html).
+  - [Nix 101 Video course](https://nix.institute/courses/nix-101-course)
+  - [Nix Anti-Patterns Book](https://nix.institute/books/nix-anti-patterns)
 - ⚙️ **C++ & systems programming**: Author of the [C++17 STL Cookbook](https://galowicz.de/blog/cpp17_stl_cookbook/). Background in hypervisors, embedded systems (x86-64/ARM), and low-level development on Linux (my daily driver since 2003). I also wrote about [CPU vulnerability research](https://cyberus-technology.de/en/articles/meltdown) (Meltdown, Zombieload & friends) as co-founder of [Cyberus Technology GmbH](https://cyberus-technology.de).
 - λ **Strong type systems**: I enjoy using [metaprogramming](https://galowicz.de/tags/metaprogramming.html) in C++ and [Haskell](https://galowicz.de/tags/haskell.html), as well as PureScript. The goal is to "define entire categories of errors out of existence".
 - 🚀 **CI/CD & test infrastructure**: Reproducible builds, hardware-in-the-loop testing, and fast deployment pipelines.
